@@ -10,7 +10,7 @@ actor
 
 def monopoly
 	monopoly = {
-key: "value"
+:railroads => {}
 	}
 monopoly
 
