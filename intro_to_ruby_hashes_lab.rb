@@ -9,7 +9,9 @@ end
 actor
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+key: "value"
+	}
 
 end
 
