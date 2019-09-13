@@ -12,6 +12,7 @@ def monopoly
 	monopoly = {
 key: "value"
 	}
+monopoly
 
 end
 
